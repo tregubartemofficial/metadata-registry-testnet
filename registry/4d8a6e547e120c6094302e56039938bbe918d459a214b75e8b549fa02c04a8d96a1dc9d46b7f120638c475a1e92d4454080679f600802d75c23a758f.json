@@ -1,0 +1,43 @@
+{
+  "subject": "4d8a6e547e120c6094302e56039938bbe918d459a214b75e8b549fa02c04a8d96a1dc9d46b7f120638c475a1e92d4454080679f600802d75c23a758f",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Test",
+    "signatures": [
+      {
+        "signature": "a988f38661d392243aa370172f8ebcde628ea53dfa0cd1ecb9ebd94296c09d1fd4bb3be7666a17efc930eb385dc4b65cc0b4f5a92ab5cfb31f7976933fbd2b03",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Vault",
+    "signatures": [
+      {
+        "signature": "492e5a765596c0406a6faf61f432986eed1c9b483fd3da8c1f23de3f575e1f0cf81f976b54be49c32574b863a4c3e46052c342cc2fd8dc529d5759fc5443fb0d",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TICKA",
+    "signatures": [
+      {
+        "signature": "dde57314be38d3d101535fd898890bf9ed7fc9158f808dba89a33e6594d2cf5c2ba995bb21b19bd2848ad53e9ec0e655b02add345d16b4220964fd2cd5df6f0c",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "1d48d3a4d0949415bfaf18e811015fb0e45b25d8349416465b2baeb10749b593c06cf4f7e17fe4f1b8fc9f3d8e251e4df950d13645d3717eb9c23d788ef9130d",
+        "publicKey": "e6579ef7542213a5cf8fca65508b659da3888075b3eaec84dea9b826b0cf5b17"
+      }
+    ]
+  }
+}
